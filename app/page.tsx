@@ -41,8 +41,8 @@ export default function CryptoClarityMVP() {
             <Image
               src="/logo.png"
               alt="CryptoClarity Logo"
-              width={150}
-              height={50}
+              width={250}
+              height={100}
             
             />
           </div>
