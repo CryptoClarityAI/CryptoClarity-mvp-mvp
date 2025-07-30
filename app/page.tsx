@@ -43,7 +43,7 @@ export default function CryptoClarityMVP() {
               alt="CryptoClarity Logo"
               width={150}
               height={50}
-              unoptimized
+            
             />
           </div>
           <Input
